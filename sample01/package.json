@@ -1,0 +1,23 @@
+{
+  "name": "express-rest-api",
+  "version": "1.0.0",
+  "description": "데이터베이스 없이 구성한 간단한 rest-api 예제입니다.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/effysogood/rest-api-sample.git"
+  },
+  "bugs": {
+    "url": "https://github.com/effysogood/rest-api-sample/issues"
+  },
+  "homepage": "https://github.com/effysogood/rest-api-sample#readme"
+}
